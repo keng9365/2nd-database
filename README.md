@@ -1,9 +1,9 @@
-You can copy folder projct in https://drive.google.com/drive/folders/1Ff00u_oWKz97EbsBFzho7sq9RaoQNv0m?usp=sharing or you download file java from here
+Download folder projct name "PtoNMUsic" form link : https://drive.google.com/drive/folders/1Ff00u_oWKz97EbsBFzho7sq9RaoQNv0m?usp=sharing 
+You can open project in netbeans and import libralies 
 
 #Import database
 1. Use MySQL Server version 5.7.25 or 8.0.15
 2. Import MySQL Script.sql to database
-
 
 #Application
 1. Copy java file to java project
