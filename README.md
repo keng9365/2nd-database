@@ -1,5 +1,5 @@
 #Import database
-1. Use MySQL Server version 8.0.15
+1. Use MySQL Server version 8.0.15 or 5.7.25
 2. Import MySQLDumpFileData.sql to database and set CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
 
