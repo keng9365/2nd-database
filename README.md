@@ -1,14 +1,11 @@
-Download folder projct name "PtoNMUsic" form link : https://drive.google.com/drive/folders/1Ff00u_oWKz97EbsBFzho7sq9RaoQNv0m?usp=sharing 
-You can open project in netbeans and import libralies 
+1. Download project file name "PtoNMusic.zip"
+2. Open project in netbeans
+3. Import libraries if program error
+4. Create new database name "PtoNMusic"
+5. Import database form "MySQL Script.sql"
 
-#Import database
-1. Use MySQL Server version 5.7.25 or 8.0.15
-2. Create database name is "PtoNMusic"
-3. Import MySQL Script.sql to database
-
-#Application
-1. Copy java file to java project
-	- You can change the connection settings in the file connect.java 
+If your database settings do not match You can follow this list
+1. change the connection settings in the file connect.java 
 	- The default settings in the file are 
 		user = "root", 
 		password = "12345678", 
