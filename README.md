@@ -7,9 +7,9 @@
 1. Copy java file to java project
 	- You can change the connection settings in the file connect.java 
 	- The default settings in the file are 
-		user = root, 
-		password = 12345678, 
-		url = jdbc:mysql://localhost:3306/PtoNMusic
+		user = "root", 
+		password = "12345678", 
+		url = "jdbc:mysql://localhost:3306/PtoNMusic"
 2. Import libraries   
 	- mysql-connector-java-8.0.16.jar
 	- rs2xml.jar
