@@ -6,7 +6,7 @@
 #Application
 1. Copy java file to java project
 	- You can change the connection settings in the file connect.java 
-	- The settings in the file are 
+	- The default settings in the file are 
 		user = root, 
 		password = 12345678, 
 		url = jdbc:mysql://localhost:3306/PtoNMusic
