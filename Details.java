@@ -500,7 +500,7 @@ public class Details extends javax.swing.JFrame {
     private void Butt_manuMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_Butt_manuMouseClicked
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Receipt().setVisible(true);
+                new mainApp().setVisible(true);
             }
         });
     }//GEN-LAST:event_Butt_manuMouseClicked
