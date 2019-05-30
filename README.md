@@ -10,6 +10,7 @@
 		user = "root", 
 		password = "12345678", 
 		url = "jdbc:mysql://localhost:3306/PtoNMusic"
+	- You can change the settings to match your database 
 2. Import libraries   
 	- mysql-connector-java-8.0.16.jar
 	- rs2xml.jar
