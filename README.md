@@ -3,7 +3,8 @@ You can open project in netbeans and import libralies
 
 #Import database
 1. Use MySQL Server version 5.7.25 or 8.0.15
-2. Import MySQL Script.sql to database
+2. Create database name is "PtoNMusic"
+3. Import MySQL Script.sql to database
 
 #Application
 1. Copy java file to java project
