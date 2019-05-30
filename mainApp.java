@@ -55,7 +55,7 @@ public class mainApp extends javax.swing.JFrame {
             }
         });
 
-        combo_edit.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Product", "Customer", "Employee", "Receipt", "Details", "Category", "Brand", "Suppier" }));
+        combo_edit.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Product", "Customer", "Employee", "Receipt", "Details", "Category", "Brand", "Supplier" }));
 
         jLabel1.setFont(new java.awt.Font("Lucida Grande", 0, 18)); // NOI18N
         jLabel1.setText("Edit table :");
@@ -148,6 +148,13 @@ public class mainApp extends javax.swing.JFrame {
             java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new Brand().setVisible(true);
+            }
+        });
+        }
+        else if (combo_edit.getSelectedItem().toString().equalsIgnoreCase("supplier")) {
+            java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                new Supplier().setVisible(true);
             }
         });
         }
