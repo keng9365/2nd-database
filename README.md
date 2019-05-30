@@ -1,6 +1,6 @@
 #Import database
 1. Use MySQL Server version 5.7.25 or 8.0.15
-2. if import MySQL 8.0.15 Script.sql to database and set CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+2. Import MySQL Script.sql to database
 
 
 #Application
